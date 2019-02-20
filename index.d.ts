@@ -1,3 +1,3 @@
-declare function RF(percent: number): number;
+declare function RF(percent: number, isOfWidth:boolean): number;
 
 export default RF;
